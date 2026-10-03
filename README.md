@@ -6,7 +6,7 @@ Two little soot balls who live by your MacBook's notch—or by the Dock. Native,
 
 ## Download / 下载
 
-[Get v0.0.1 / 下载 v0.0.1](https://github.com/dean0228/sootpet-releases/releases/tag/v0.0.1)
+[Get v0.0.1 / 下载 v0.0.1](https://github.com/dean0228/sootpet-releases/releases/tag/v0.0.1-build53)
 
 Requires **Apple silicon and macOS 14 or later**. This is an **Ad Hoc, unnotarized test build**. It has not been notarized by Apple. Source code is maintained in a separate private repository.
 
