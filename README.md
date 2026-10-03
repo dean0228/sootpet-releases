@@ -1,45 +1,85 @@
-# SootPet / 墨团
+<p align="center">
+  <img src="images/app-icon.png" width="88" alt="墨团 SootPet">
+</p>
 
-Two little soot balls who live by your MacBook's notch—or by the Dock. Native, local-first, and made for macOS.
+<h1 align="center">墨团 · SootPet</h1>
+<p align="center">两只小黑球，住进你的 Mac 边缘。</p>
+<p align="center">
+  简体中文 · <a href="README.en.md">English</a><br>
+  <a href="https://github.com/dean0228/sootpet-releases/releases/download/v0.0.1-build53/SootPet-0.0.1.dmg">下载 Mac 版</a> ·
+  <a href="https://github.com/dean0228/sootpet-releases/releases/tag/v0.0.1-build53">版本详情</a> ·
+  <a href="#安装与更新">安装说明</a>
+</p>
 
-两只住在 Mac 里的毛茸茸小黑球。MacBook 刘海是它们的家；没有刘海时住在 Dock 边。
+![墨墨和团团住在 Mac 边缘的场景示意](images/hero-zh.png)
 
-## Download / 下载
+墨墨好奇、活泼，团团慢热、爱困。它们把 MacBook 的刘海当作家；没有刘海或接上外接屏，就搬到 Dock 边。你忙的时候安静陪着，空闲时探头、张望、互相靠靠——让平常的工作日多一点小小的回应。
 
-[Get v0.0.1 / 下载 v0.0.1](https://github.com/dean0228/sootpet-releases/releases/tag/v0.0.1-build53)
+**macOS 原生 · 本地优先 · 简体中文 / English**
 
-Requires **Apple silicon and macOS 14 or later**. This is an **Ad Hoc, unnotarized test build**. It has not been notarized by Apple. Source code is maintained in a separate private repository.
+## 不打扰，也有回应
 
-适用于 **Apple silicon / macOS 14 及更新版本**。这是 **Ad Hoc 未公证测试包**，没有通过 Apple 公证。源码在独立私有仓库维护。
+- **住在屏幕边缘。** 刘海、Dock 或你喜欢的屏幕边缘，都能成为小家。拖起放下，看看它们如何扒住边缘、探头张望。
+- **按自己的节奏陪伴。** 选择安静、自然或活泼；一只或两只，都由你决定。窗口漫步可按需开启。
+- **一起专注，记得休息。** 25 分钟专注陪伴，加上可调整间隔的温柔提醒。伸个懒腰、看看远方，小家伙用举牌提醒你。
+- **给日常一点惊喜。** 可预览动作，试试小星星、围巾，或让它们一起演出生活片段。
 
-## Install / 安装
+## 图标零食：桌面清爽一点
 
-1. Download SootPet-0.0.1.dmg and open it.
-2. Drag the app into Applications. If SootPet is already installed, quit it first and replace the existing app.
-3. Open SootPet from Applications. macOS may require you to choose Open Anyway in System Settings → Privacy & Security.
-4. Choose English or Simplified Chinese in Settings → App Info → App Language.
+暂时不用的菜单栏图标，先交给墨团保管。开启后按住 Command，把想收起的图标拖到墨团左侧；右键喂入或吐出，左键仍打开墨团面板。关闭功能或退出墨团时恢复显示。
 
-1. 下载并打开 SootPet-0.0.1.dmg。
-2. 将墨团拖到“应用程序”。已有旧版时，先退出，再替换原来的墨团。
-3. 从“应用程序”打开墨团；首次可能需要在“系统设置 → 隐私与安全性”选择“仍要打开”。
-4. 在“设置 → 应用信息 → 界面语言”切换简体中文或 English。
+![图标零食的真实中文应用界面](images/icon-snack-zh.png)
 
-When updating from v4.x for the first time, install this disk image manually. Your names, statistics, achievements, and settings carry over. The physical app bundle name stays 墨团.app so it replaces the original installation; Finder displays SootPet in English.
+## 每一下认真，都算数
 
-首次从 v4.x 更新请手动替换。名字、统计、成就和设置继续使用；安装包内保留墨团.app 的物理文件名以替换旧版，Finder 会按系统语言显示 SootPet 或墨团。
+按键陪伴开启后，查看今日、本周和累计次数，以及近 7 天或 30 天的变化。每累计 100 次按下，两只轮流举牌，展示约 4–5 秒，给你一个小小的回应。
 
-## Updates / 更新
+只统计**按下次数**，不是文字字数；不记录你打了什么。
 
-Use Settings → App Info to check for updates, read release notes, and download a verified installer. You confirm installation yourself. Build numbers keep increasing even though the public version now starts at v0.0.1.
+![按键统计的真实中文应用界面](images/key-presses-zh.png)
 
-在“设置 → 应用信息”检查更新、阅读说明并下载安装包，验证完成后由你确认安装。对外版本从 v0.0.1 起步，Build 持续递增。
+## 慢慢点亮，属于你们的成就
 
-## Privacy / 隐私
+陪伴、专注和日常互动，逐渐点亮成就徽章。点击徽章，查看故事、条件与当前进度，不用把陪伴变成任务清单。
 
-Key counting and Window Walking are off by default. Key counting requires Input Monitoring permission and saves counts only—never typed text, key codes, shortcuts, or the current app. Preferences and statistics stay on this Mac. Updates contact GitHub only to fetch release information or an installer you requested.
+![成就徽章的真实中文应用界面](images/achievements-zh.png)
 
-按键统计和窗口漫步默认关闭。按键统计需输入监控授权，只保存次数，不保存字符、键码、快捷键或当前应用。偏好与统计保存在本机；更新仅连接 GitHub 获取版本信息或下载你主动选择的安装包。
+<details>
+<summary>看看动作工作室：小小动作，先试给你看</summary>
 
-If key counting stops after an update, grant Input Monitoring permission to the installed version in macOS settings and relaunch it as instructed by macOS.
+![动作工作室的真实中文应用界面](images/action-studio-zh.png)
 
-更新后若按键统计不可用，请在系统“输入监控”中重新允许已安装的版本，并按 macOS 提示重开应用。
+在动作工作室预览墨团的生活片段，选择喜欢的动作，再带回桌面。
+
+</details>
+
+*上方功能截图来自真实应用；顶部场景为宣传示意。截图中的统计与进度是展示数据。*
+
+## 隐私，留在这台 Mac
+
+- 按键陪伴、窗口漫步和图标零食都默认关闭，由你主动开启。
+- 按键功能需 macOS「输入监控」授权；只保存次数，不保存字符、键码、组合键或当前应用。
+- 窗口漫步仅即时使用窗口位置与大小等必要信息，不读取标题或画面，不保存移动轨迹。
+- 图标零食仅调整墨团自己的菜单栏项，不读取或点击其他应用图标，不改写它们的系统排序偏好。
+- 不读取屏幕内容，不使用摄像头或麦克风，不上传行为数据。偏好和统计保存在本机。
+- 更新检查和安装包下载连接 GitHub，不附带行为统计或设备标识。
+
+## 安装与更新
+
+当前版本 **v0.0.1**，适用于 **Apple 芯片（M 系列）/ macOS 14 及更新版本**。
+
+这是 **Ad Hoc 未公证公开测试版**，没有经过 Apple 公证。首次打开可能被 macOS 拦截；请确认下载来源，按系统提示操作，不要关闭 Gatekeeper 或系统安全保护。
+
+1. [下载 SootPet-0.0.1.dmg](https://github.com/dean0228/sootpet-releases/releases/download/v0.0.1-build53/SootPet-0.0.1.dmg)，打开后将墨团拖到「应用程序」。
+2. 已有旧版时，先退出，再替换原来的墨团；原有名字、统计、成就和设置继续使用。
+3. 打开墨团。如果 macOS 拦截，按系统提示到「系统设置 → 隐私与安全性」选择「仍要打开」；只对你确认来源的安装包这样操作。
+4. 在「设置 → 应用信息 → 界面语言」选择跟随系统、简体中文或 English。
+5. 按键统计更新后若不可用，在系统「输入监控」中允许当前安装版本，再按 macOS 提示重开。
+
+在「设置 → 应用信息」检查更新、阅读说明并下载安装包。安装前会验证更新清单签名和安装包完整性，最终替换由你确认；这项校验不等同于 Apple 公证。
+
+[查看版本说明](https://github.com/dean0228/sootpet-releases/releases/tag/v0.0.1-build53) · [校验安装包](https://github.com/dean0228/sootpet-releases/releases/download/v0.0.1-build53/SHA256SUMS) · [反馈问题](https://github.com/dean0228/sootpet-releases/issues)
+
+---
+
+这是一份面向用户的产品介绍与下载页。让墨团住进桌面，也让工作日柔软一点。
