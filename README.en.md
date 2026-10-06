@@ -6,8 +6,9 @@
 <p align="center">Two little sootballs, living along your Mac’s edge.</p>
 <p align="center">
   <a href="README.md">简体中文</a> · English<br>
-  <a href="https://github.com/dean0228/sootpet-releases/releases/download/v0.0.1-build53/SootPet-0.0.1.dmg">Download for Mac</a> ·
-  <a href="https://github.com/dean0228/sootpet-releases/releases/tag/v0.0.1-build53">Release details</a> ·
+  <a href="https://github.com/dean0228/sootpet-releases/releases/download/v0.0.1-build54/SootPet-0.0.1.dmg">Download the Mac fix</a> ·
+  <a href="https://sootpet.com/download/mac">Official download page</a> ·
+  <a href="https://github.com/dean0228/sootpet-releases/releases/tag/v0.0.1-build54">Release details</a> ·
   <a href="#installing--updating">Installation guide</a>
 </p>
 
@@ -66,11 +67,13 @@ Preview SootPet’s everyday scenes, choose your favorite actions, and bring the
 
 ## Installing & updating
 
-The current release is **v0.0.1**, for **Apple silicon Macs (M-series) running macOS 14 or later**.
+The current release is **v0.0.1 (Build 54)**, for **Apple silicon Macs (M-series) running macOS 14 or later**.
+
+Build 54 fixes repeated Icon Snacks animations and prevents folding from shrinking the control toward the notch. Until the website mirror is updated, use the Mac fix link above; the official download endpoint may still serve Build 53.
 
 This is an **Ad Hoc-signed public preview, not notarized by Apple**. macOS may block the first launch. Verify where you downloaded it and follow the system prompts. Do not disable Gatekeeper or other system security protections.
 
-1. [Download SootPet-0.0.1.dmg](https://github.com/dean0228/sootpet-releases/releases/download/v0.0.1-build53/SootPet-0.0.1.dmg), open it, and drag SootPet into Applications.
+1. [Download SootPet-0.0.1.dmg (Build 54)](https://github.com/dean0228/sootpet-releases/releases/download/v0.0.1-build54/SootPet-0.0.1.dmg), open it, and drag SootPet into Applications.
 2. If an older version is installed, quit it before replacing the app. Your names, statistics, achievements, and preferences carry over.
 3. Open SootPet. If macOS blocks it, follow the prompt in System Settings → Privacy & Security to choose Open Anyway. Do this only for an installer whose source you trust.
 4. Choose Follow System, Simplified Chinese, or English in Settings → App Info → App Language.
@@ -78,7 +81,7 @@ This is an **Ad Hoc-signed public preview, not notarized by Apple**. macOS may b
 
 Check for updates, read release notes, and download an installer in Settings → App Info. SootPet verifies the update manifest’s signature and the installer’s integrity before you confirm installation. This verification is not a substitute for Apple notarization.
 
-[Release notes](https://github.com/dean0228/sootpet-releases/releases/tag/v0.0.1-build53) · [Installer checksum](https://github.com/dean0228/sootpet-releases/releases/download/v0.0.1-build53/SHA256SUMS) · [Report an issue](https://github.com/dean0228/sootpet-releases/issues)
+[Release notes](https://github.com/dean0228/sootpet-releases/releases/tag/v0.0.1-build54) · [Installer checksum](https://github.com/dean0228/sootpet-releases/releases/download/v0.0.1-build54/SHA256SUMS) · [Report an issue](https://github.com/dean0228/sootpet-releases/issues)
 
 ---
 
