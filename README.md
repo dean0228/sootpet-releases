@@ -6,8 +6,9 @@
 <p align="center">两只小黑球，住进你的 Mac 边缘。</p>
 <p align="center">
   简体中文 · <a href="README.en.md">English</a><br>
-  <a href="https://github.com/dean0228/sootpet-releases/releases/download/v0.0.1-build53/SootPet-0.0.1.dmg">下载 Mac 版</a> ·
-  <a href="https://github.com/dean0228/sootpet-releases/releases/tag/v0.0.1-build53">版本详情</a> ·
+  <a href="https://github.com/dean0228/sootpet-releases/releases/download/v0.0.1-build54/SootPet-0.0.1.dmg">下载 Mac 修复版</a> ·
+  <a href="https://sootpet.com/download/mac">官网下载入口</a> ·
+  <a href="https://github.com/dean0228/sootpet-releases/releases/tag/v0.0.1-build54">版本详情</a> ·
   <a href="#安装与更新">安装说明</a>
 </p>
 
@@ -66,11 +67,13 @@
 
 ## 安装与更新
 
-当前版本 **v0.0.1**，适用于 **Apple 芯片（M 系列）/ macOS 14 及更新版本**。
+当前版本 **v0.0.1（Build 54）**，适用于 **Apple 芯片（M 系列）/ macOS 14 及更新版本**。
+
+Build 54 修复了图标零食循环开合及入口缩短后移入刘海的问题。官网镜像尚待同步时，请使用上方 Mac 修复版链接；官网下载入口可能仍提供 Build 53。
 
 这是 **Ad Hoc 未公证公开测试版**，没有经过 Apple 公证。首次打开可能被 macOS 拦截；请确认下载来源，按系统提示操作，不要关闭 Gatekeeper 或系统安全保护。
 
-1. [下载 SootPet-0.0.1.dmg](https://github.com/dean0228/sootpet-releases/releases/download/v0.0.1-build53/SootPet-0.0.1.dmg)，打开后将墨团拖到「应用程序」。
+1. [下载 SootPet-0.0.1.dmg（Build 54）](https://github.com/dean0228/sootpet-releases/releases/download/v0.0.1-build54/SootPet-0.0.1.dmg)，打开后将墨团拖到「应用程序」。
 2. 已有旧版时，先退出，再替换原来的墨团；原有名字、统计、成就和设置继续使用。
 3. 打开墨团。如果 macOS 拦截，按系统提示到「系统设置 → 隐私与安全性」选择「仍要打开」；只对你确认来源的安装包这样操作。
 4. 在「设置 → 应用信息 → 界面语言」选择跟随系统、简体中文或 English。
@@ -78,7 +81,7 @@
 
 在「设置 → 应用信息」检查更新、阅读说明并下载安装包。安装前会验证更新清单签名和安装包完整性，最终替换由你确认；这项校验不等同于 Apple 公证。
 
-[查看版本说明](https://github.com/dean0228/sootpet-releases/releases/tag/v0.0.1-build53) · [校验安装包](https://github.com/dean0228/sootpet-releases/releases/download/v0.0.1-build53/SHA256SUMS) · [反馈问题](https://github.com/dean0228/sootpet-releases/issues)
+[查看版本说明](https://github.com/dean0228/sootpet-releases/releases/tag/v0.0.1-build54) · [校验安装包](https://github.com/dean0228/sootpet-releases/releases/download/v0.0.1-build54/SHA256SUMS) · [反馈问题](https://github.com/dean0228/sootpet-releases/issues)
 
 ---
 
