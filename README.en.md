@@ -69,7 +69,7 @@ Preview SootPet’s everyday scenes, choose your favorite actions, and bring the
 
 The current release is **v0.0.1 (Build 54)**, for **Apple silicon Macs (M-series) running macOS 14 or later**.
 
-Build 54 fixes repeated Icon Snacks animations and prevents folding from shrinking the control toward the notch. Until the website mirror is updated, use the Mac fix link above; the official download endpoint may still serve Build 53.
+Build 54 includes fixes for repeated Icon Snacks animations and control width; compatibility testing is ongoing. The website's Mac download now serves Build 54. A newer local candidate is not a public release.
 
 This is an **Ad Hoc-signed public preview, not notarized by Apple**. macOS may block the first launch. Verify where you downloaded it and follow the system prompts. Do not disable Gatekeeper or other system security protections.
 
